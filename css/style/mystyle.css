@@ -1,0 +1,181 @@
+/* Header 
+
+
+*/
+.bg-grey {
+	background:	#ecf0f1;
+	height: auto;
+}
+
+.logo {
+	background: #f1c40f; height: 100px;
+}
+
+.banner {
+	background: #e74c3c; height: 100px;
+}
+
+.navbar-kolor {
+	background: #8e44ad;
+	border: none;
+}
+
+/* End of Header 
+
+
+*/
+
+/* nav 
+
+
+*/
+
+.ic-kolor {
+	color: white;
+}
+
+.navbar-text-kolor li a {
+	color: white !important;
+	font-family: 'Righteous', cursive;
+}
+
+.drop-kolor {
+	background-color: #8e44ad;
+}
+
+.drop-kolor li a {
+	background: #8e44ad;
+	border: none;
+}
+/* end of nav 
+
+*/
+
+/* content 
+
+
+*/
+content {
+	font-family: 'Righteous', cursive;
+
+}
+/* End of content 
+
+
+*/
+
+/* Footer
+
+
+*/
+footer {
+	background-color: black;
+	/*background: url(../../images/tiled.png);*/
+	/*background-color: #3b5998;*/
+	height: 150px;
+	padding-top: 20px;
+	color: white;
+}
+
+.social i.google {
+	background: red;
+}
+
+/* End of Footer 
+
+
+*/
+
+/* Start of Checkout
+
+
+*/
+
+/* images*/
+ol, ul {
+  list-style: none;
+}
+.hand {
+  cursor: pointer;
+  cursor: pointer;
+}
+.cards{
+    padding-left:0;
+}
+.cards li {
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  -ms-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  background-image: url('//c2.staticflickr.com/4/3713/20116660060_f1e51a5248_m.jpg');
+  background-position: 0 0;
+  float: left;
+  height: 32px;
+  margin-right: 8px;
+  text-indent: -9999px;
+  width: 51px;
+}
+.cards .mastercard {
+  background-position: -51px 0;
+}
+.cards li {
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  -ms-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  background-image: url('//c2.staticflickr.com/4/3713/20116660060_f1e51a5248_m.jpg');
+  background-position: 0 0;
+  float: left;
+  height: 32px;
+  margin-right: 8px;
+  text-indent: -9999px;
+  width: 51px;
+}
+.cards .amex {
+  background-position: -102px 0;
+}
+.cards li {
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  -ms-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  background-image: url('//c2.staticflickr.com/4/3713/20116660060_f1e51a5248_m.jpg');
+  background-position: 0 0;
+  float: left;
+  height: 32px;
+  margin-right: 8px;
+  text-indent: -9999px;
+  width: 51px;
+}
+.cards li:last-child {
+  margin-right: 0;
+}
+/* images end */
+
+.panel-warning {
+    border-color: #999;
+}
+
+.panel-heading {
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+}
+.panel {
+    border-radius: 1px;
+}
+.panel-warning > .panel-heading {
+    color: #eee;
+    border-color: #999;
+}
+.panel-warning > .panel-heading {
+    background-image: linear-gradient(to bottom, #555 0px, #888 100%);
+}
+
+/* End of Checkout 
+
+
+*/
+
